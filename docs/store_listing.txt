@@ -1,0 +1,13 @@
+App name
+BINET HERVE JACQUES
+
+Short description
+Manage daily tasks, stock, maintenance requests, and visitors from one local operations app.
+
+Full description
+BINET HERVE JACQUES gives small business teams a focused Android workspace for daily operational follow-up. Teams can save tasks, inventory checks, maintenance requests, and visitor entries in a clear phone-first interface.
+
+The app is built for local use with practical status controls, priority markers, schedules, and record details. Information stays on the device, so teams can keep an operational log without account setup or cloud sync.
+
+Category
+Productivity
