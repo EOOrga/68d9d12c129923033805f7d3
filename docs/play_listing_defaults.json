@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "applications": {
+    "com.taziggg100.binet_herve_jacques": {
+      "title": "BINET HERVE JACQUES",
+      "short_description": "Manage daily tasks, stock, maintenance requests, and visitors from one local...",
+      "full_description": "BINET HERVE JACQUES gives small business teams a focused Android workspace for daily operational follow-up. Teams can save tasks, inventory checks, maintenance requests, and visitor entries in a clear phone-first interface.\n\nThe app is built for local use with practical status controls, priority markers, schedules, and record details. Information stays on the device, so teams can keep an operational log without account setup or cloud sync.",
+      "source_screenshots": [
+        "docs/screens/1.png",
+        "docs/screens/2.png",
+        "docs/screens/3.png"
+      ],
+      "generated_from": "existing repository listing metadata and README",
+      "generated_at": "2026-10-02T21:23:53.444882+00:00"
+    }
+  }
+}
