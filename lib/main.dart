@@ -51,9 +51,9 @@ class MyApp extends StatelessWidget {
 }
 
 ThemeData _buildTheme() {
-  const primary = Color(0xFF315F95);
-  const secondary = Color(0xFF2F766D);
-  const tertiary = Color(0xFFB66B2E);
+  const primary = Color(0xFF1FFFC7);
+  const secondary = Color(0xFF1FC7FF);
+  const tertiary = Color(0xFF1FC7FF);
   const surface = Color(0xFFF7F9FC);
 
   final scheme = ColorScheme.fromSeed(
@@ -333,7 +333,7 @@ List<OpsRecord> sampleRecords() {
     OpsRecord(
       id: 'task-floor-open',
       area: OperationArea.tasks,
-      title: 'Prepare south floor opening',
+      title: 'BINET HERVE JACQUES',
       detail:
           'Assign cleaning, counter checks, and morning handover notes before doors open.',
       owner: 'Aline',
